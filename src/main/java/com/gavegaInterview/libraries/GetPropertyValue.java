@@ -1,4 +1,4 @@
-package com.avegaInterview.libraries;
+package com.gavegaInterview.libraries;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

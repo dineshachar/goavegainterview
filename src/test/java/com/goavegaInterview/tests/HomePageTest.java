@@ -1,7 +1,7 @@
 package com.goavegaInterview.tests;
 
-import com.avegaInterview.libraries.GetPropertyValue;
-import com.avegaInterview.libraries.ReadLoginCredentials;
+import com.gavegaInterview.libraries.GetPropertyValue;
+import com.gavegaInterview.libraries.ReadLoginCredentials;
 import com.goavega.pages.HomePage;
 
 import org.testng.annotations.Test;

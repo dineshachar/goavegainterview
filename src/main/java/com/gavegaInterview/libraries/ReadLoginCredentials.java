@@ -1,4 +1,4 @@
-package com.avegaInterview.libraries;
+package com.gavegaInterview.libraries;
 
 import java.awt.List;
 import java.io.File;

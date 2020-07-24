@@ -7,8 +7,8 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import com.avegaInterview.libraries.GetPropertyValue;
-import com.avegaInterview.libraries.LaunchBrowser;
+import com.gavegaInterview.libraries.GetPropertyValue;
+import com.gavegaInterview.libraries.LaunchBrowser;
 
 
 public class BaseTest {

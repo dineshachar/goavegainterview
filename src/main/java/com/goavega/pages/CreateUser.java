@@ -82,7 +82,7 @@ public class CreateUser extends BasePage {
 		CALENDER_EXPIRY_DATE.click();
 		SELECT_TODAY_AS_EXPIRY_DATE.click();
 		Thread.sleep(2000);
-		FILE_UPLOAD_PROFILE_PICTURE.sendKeys("..//goavega//images//profile_image.png");
+		FILE_UPLOAD_PROFILE_PICTURE.sendKeys("..\\goavega\\images\\profile_image.png");
 		Select country = new Select(DROPDOWN_COUNTRY);
 		country.selectByValue("India");
 		
